@@ -1,7 +1,7 @@
 {
   "name": "guess-my-number",
   "version": "1.0.0",
-  "description": "",
+  "description": "Game built with HTML, CSS, and JS",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
